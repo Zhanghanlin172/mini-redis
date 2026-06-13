@@ -1,0 +1,5 @@
+build/
+mini-redis
+data.aof
+*.o
+.DS_Store
